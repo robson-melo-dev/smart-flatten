@@ -1,0 +1,29 @@
+{
+  
+  "homepage": "https://github.com/robson-melo-dev/smart-flatten",
+  "name": "smart-flatten",
+  "version": "1.0.0",
+  "description": "Flatten arrays like a pro with advanced filtering, sorting, and more!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flatten",
+    "flatten array",
+    "array",
+    "array.prototype",
+    "sorting",
+    "filter",
+    "sort"
+  ],
+  "author": "Robson Melo de Souza <sys.robson@gmail.com> (https://robson-melo-dev.github.io/new-portfolio/)",
+  "license": "(MIT OR Apache-2.0)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robson-melo-dev/smart-flatten.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robson-melo-dev/smart-flatten/issues"
+  }
+}
